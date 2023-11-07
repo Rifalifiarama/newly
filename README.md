@@ -1,0 +1,2 @@
+# newly
+aplikasi untuk pemula
